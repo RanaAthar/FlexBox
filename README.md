@@ -8,4 +8,4 @@ Flexbox("Flexible box layout")  : it is one dimension layout method for arrangin
 
    Flex properties for :flex conatiner:
    justify-content:aligment along the main axis.
-   
+   align-content: Aligment of space between & around  the content along cross axis .Remember align content work when the flex items is not single line and in multiple lines
