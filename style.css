@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    text-align: center;
+}
+.container{
+    height: 560px;
+    width: 1200px;
+    border: 2px solid blue;
+    display: flex;
+    /* flex-direction: column; */
+    /* flex-direction: column-reverse; */
+    flex-direction:row;
+    /* flex-direction: row-reverse; */
+    justify-content: center;
+}
+.box1{
+    height: 200px;
+    width: 80px;
+    background: linear-gradient(#569012, #006699), #009999;
+    color: rgb(211, 11, 11);
+    font-size: larger;
+}
+.box2{
+    height: 200px;
+    width: 80px;
+    background: linear-gradient(#232323, #056445), #534363;
+    color: rgb(211, 11, 11);
+    font-size: larger;
+}
+.box3{
+    height: 200px;
+    width: 80px;
+    background: linear-gradient(#238865, #012345), #567890;
+    color: rgb(211, 11, 11);
+    font-size: larger;
+}
+.box4{
+    height: 200px;
+    width: 80px;
+    background: linear-gradient(#999333, #888222), #341209;
+    color: rgb(211, 11, 11);
+    font-size: larger;
+}
+.box5{
+    height: 200px;
+    width: 80px;
+    background: linear-gradient(#742929, #8bc4b1), #dacee6;
+    color: rgb(211, 11, 11);
+    font-size: larger;
+}
+.box6{
+    height: 200px;
+    width: 80px;
+    background: linear-gradient(#231111, #056495), #534443;
+    color: rgb(211, 11, 11);
+    font-size: larger;
+}
+a img{
+    height: 120px;
+    width: 100px;
+    border-radius: 50%;
+
+}
